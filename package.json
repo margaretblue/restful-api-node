@@ -1,0 +1,22 @@
+{
+  "name": "restful-api-node",
+  "version": "0.0.0",
+  "description": "RESTful API with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/margaretblue/restful-api-node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Margaret Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/margaretblue/restful-api-node/issues"
+  },
+  "homepage": "https://github.com/margaretblue/restful-api-node"
+}
