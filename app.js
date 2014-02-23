@@ -41,7 +41,7 @@ app.configure(function () {
 var Product = new Schema({
     title: { type: String, required: true },
     description: { type: String, required: true },
-    style: { type: String, unique: true }
+    style: { type: String, unique: true },
     modified: { type: Date, default: Date.now }
 });
 
